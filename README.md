@@ -1,10 +1,10 @@
-# 🧾 Inventory Management System
+# Inventory Management System
 
 A Spring Boot application for managing inventory items using a MySQL database. Supports full CRUD operations via RESTful API.
 
 ---
 
-## 🚀 Features
+## Features
 
 - Add, view, update, and delete items
 - RESTful API endpoints
@@ -14,7 +14,7 @@ A Spring Boot application for managing inventory items using a MySQL database. S
 
 ---
 
-## 📦 Tech Stack
+## Tech Stack
 
 - Java 19
 - Spring Boot 3.4.4
@@ -25,7 +25,7 @@ A Spring Boot application for managing inventory items using a MySQL database. S
 
 ---
 
-## ⚙️ Setup Instructions
+## Setup Instructions
 
 ### 1. Clone the Repository
 ```bash
